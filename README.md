@@ -1,4 +1,4 @@
-# Hello! My name is Caio Guilherme! ✌🏽
+# Hello! My name is Caio Guilherme! 👊🏼
 - 💻 Technology lover
 - 📚 Studying Javascript
 - 💡 My goal is to be a front-end developer
