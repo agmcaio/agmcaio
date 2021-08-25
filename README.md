@@ -1,19 +1,22 @@
 # Hello! My name is Caio Guilherme! 👊🏼
+in production...
 - 💻 Technology lover
 - 📚 Studying Javascript
-- 💡 My goal is to be a front-end developer
-
+- 💡  My goal is to be a front-end developer
+<br>
 <div>
   <a href="https://github.com/agmcaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agmcaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agmcaio&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  <hr>
   
 # Access my social networks 📲
   
-  <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/agmcaio"><img align="center" padding-top="" alt="Caio-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg"></a><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+  <div style="display: inline_block">
+    
+  <a href="https://www.instagram.com/agmcaio" target="_blank"><img align="center" alt="Caio-instagram" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a><a href="https://www.instagram.com/agmcaio" target="_blank">**Instagram**</a>
+    
+  <a href="https://www.linkedin.com/in/caio-guilherme-880675202/" target="_blank"><img align="center" alt="Caio-linkedin" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"></a><a href="https://www.linkedin.com/in/caio-guilherme-880675202/" target="_blank">**Linkedin**</a> 
+    
+  <a href="https://twitter.com/agmcaio" target="_blank"><img align="center" alt="Caio-twitter" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"></a><a href="https://www.linkedin.com/in/caio-guilherme-880675202/" target="_blank">**Twitter**</a>
 </div>
