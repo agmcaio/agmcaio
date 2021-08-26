@@ -1,7 +1,7 @@
 # Hello! My name is Caio Guilherme! 👊🏼
 in production...
 - 💻 Technology lover
-- 📚 Studying Javascript
+- 📚 Studying 
 - 💡  My goal is to be a front-end developer
 <br>
 <div>
