@@ -6,12 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong></strong>
+  🦄 Linguagens que estou estudando: <strong>HTML, CSS, JavaScript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  💼 Ferramentas: <strong>VS Code, Figma</strong>
 </p>
 
 <p align="left">
