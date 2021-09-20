@@ -19,7 +19,7 @@
 
 <p align="left">
   
-    [![Gmail Badge](https://img.shields.io/badge/-agmcaiodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agmcaiodev@gmail.com)](mailto:agmcaiodev@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-agmcaiodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agmcaiodev@gmail.com)](mailto:agmcaiodev@gmail.com)
 
   <a href="https://www.linkedin.com/in/caio-guilherme-880675202/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
