@@ -1,22 +1,29 @@
-# Hello! My name is Caio Guilherme! 👊🏼
-in production...
-- 💻 Technology lover
-- 📚 Studying 
-- 💡  My goal is to be a front-end developer
-<br>
-<div>
-  <a href="https://github.com/agmcaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agmcaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agmcaio&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-# Access my social networks 📲
-  
-  <div style="display: inline_block">
-    
-  <a href="https://www.instagram.com/agmcaio" target="_blank"><img align="center" alt="Caio-instagram" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a><a href="https://www.instagram.com/agmcaio" target="_blank">**Instagram**</a>
-    
-  <a href="https://www.linkedin.com/in/caio-guilherme-880675202/" target="_blank"><img align="center" alt="Caio-linkedin" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"></a><a href="https://www.linkedin.com/in/caio-guilherme-880675202/" target="_blank">**Linkedin**</a> 
-    
-  <a href="https://twitter.com/agmcaio" target="_blank"><img align="center" alt="Caio-twitter" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"></a><a href="https://www.linkedin.com/in/caio-guilherme-880675202/" target="_blank">**Twitter**</a>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Olá! Me chamo <strong>Caio Guilherme</strong>, tenho 19 anos e sou de João Pessoa-PB. <br>
+  Estou graduando em <strong>Sistemas para Internet</strong> no <strong>Instituto Federal da Paraíba</strong>.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong></strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong></strong>
+</p>
+
+<p align="left">
+  💌 Vamos conversar? Entre em contato comigo... ⤵️
+</p>
+
+<p align="left">
+  <a href="agmcaiodev@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/caio-guilherme-880675202/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://www.instagram.com/agmcaio/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
