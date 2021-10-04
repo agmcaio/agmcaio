@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Wordpress</strong>
 </p>
 
 <p align="left">
