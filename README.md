@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens que estou estudando: <strong>HTML, CSS, JavaScript</strong>
+  🦄 O que estou estudando: <strong>HTML, CSS, JavaScript</strong>
 </p>
 
 <p align="left">
