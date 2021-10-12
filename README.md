@@ -1,24 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
+# What's up 👋🏼 I'm Caio Guilherme!
 
 <p align="left"> 
-  Olá! Me chamo <strong>Caio Guilherme</strong>, tenho 19 anos e sou de João Pessoa-PB. <br>
-  Estou graduando em <strong>Sistemas para Internet</strong> no <strong>Instituto Federal da Paraíba</strong>.
-</p>
-
-<p align="left">
-  🦄 O que estou estudando: <strong>HTML, CSS, JavaScript</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Wordpress</strong>
-</p>
-
-<p align="left">
-  📲 Contatos:
-</p>
-<p align="left">
   
-  [![Gmail Badge](https://img.shields.io/badge/-agmcaiodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agmcaiodev@gmail.com)](mailto:agmcaiodev@gmail.com)
+I'm graduating in Internet Systems at the Federal Institute of Paraíba (IFPB). <br>
+I have a passion for technology, innovation and I'm always looking for the best way to solve a problem. I seek to improve myself in Java, JavaScript and Python. But I get along with the front-end too 
+
+</p>
+
+## 📲 Contact
+
+<p align="left">
 
   <a href="https://www.linkedin.com/in/caio-guilherme-880675202/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
