@@ -7,6 +7,8 @@
 I'm graduating in Internet Systems at the Federal Institute of Paraíba (IFPB). <br>
 I have a passion for technology, innovation and I'm always looking for the best way to solve a problem. I seek to improve myself in **Java**, **JavaScript** and **Python**. I love solving algorithms and problems.
 
+  
+Obs. Ainda estou em processo de subir todos meus projetos para cá.
 </p>
 
 ## 📲 Contact
