@@ -6,6 +6,7 @@
   
 I'm graduating in Internet Systems at the Federal Institute of Paraíba (IFPB). <br>
 I have a passion for technology, innovation and I'm always looking for the best way to solve a problem. I seek to improve myself in **Back-end**. I like solving algorithms and problems.
+I currently work at Vsoft (https://www.vsoft.com.br/sobre), a people identification and process certification company
 </p>
 
 ## 📲 Contact
